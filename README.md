@@ -1,6 +1,6 @@
-#  WeatherPro – Professional Weather App
+#  WeatherPro, A Professional Weather App
 
-WeatherPro is a weather application built with **HTML, CSS, and vanilla JavaScript**. It fetches real-time weather data using the [WeatherAPI](https://www.weatherapi.com/), presenting it through an elegant user interface done by animations, loading effects, and custom error handling.
+WeatherPro is a weather application built with **HTML, CSS, and JavaScript**. It fetches real-time weather data using the [WeatherAPI](https://www.weatherapi.com/), presenting it through an elegant user interface done by animations, loading effects, and custom error handling.
 
 ##  Features
 
@@ -43,7 +43,7 @@ WeatherPro is a weather application built with **HTML, CSS, and vanilla JavaScri
 
 When I started this project, I struggled a lot with **API handling**. Initially, I could only fetch and display data without any kind of input validation, error catching, or loading feedback.
 
-But I soon realized this wasn't enough for a good user experience. So I went back and improved every part of the app:
+But I soon realized this was not enough for a good user experience. So I went back and improved every part of the app:
 
 - Added **input validation** (empty, too short, numeric checks)
 - Used **`try...catch`** for proper error control
