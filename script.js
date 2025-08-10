@@ -22,7 +22,7 @@ const uvIndex = document.getElementById("uvIndex");
 const heatIndex = document.getElementById("heatIndex");
 
 const API_KEY = "e2819fb85f1e48d0b33102201252506";
-const API_URL = "http://api.weatherapi.com/v1/current.json";
+const API_URL = "https://api.weatherapi.com/v1/current.json";
 
 document.addEventListener("DOMContentLoaded", () => {
   setTimeout(() => {
