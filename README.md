@@ -1,6 +1,6 @@
 #  WeatherPro, A Professional Weather App
 
-WeatherPro is a weather application built with **HTML, CSS, and JavaScript**. It fetches real-time weather data using the [WeatherAPI](https://www.weatherapi.com/), presenting it through an elegant user interface done by animations, loading effects, and custom error handling.
+WeatherPro is a weather application built with **HTML, CSS, and JavaScript**. It fetches real-time weather data using the [WeatherAPI](https://www.weatherapi.com/), presenting it through an elegant user interface done by animations, loading effects, and error handling.
 
 ## Link of Weather App
 
