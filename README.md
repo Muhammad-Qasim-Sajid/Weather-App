@@ -8,7 +8,7 @@ WeatherPro is a weather application built with **HTML, CSS, and JavaScript**. It
 
 ##  Screenshot
 
-![Tic Tac Toe Screenshot](ScreenShot.png)
+![WaetherPro Screenshot](ScreenShot.png)
 
 ##  Features
 
